@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_craft/constants/app_assets.dart';
+import '/constants/app_assets.dart';
 
 class TotalItemWidget extends StatefulWidget {
   const TotalItemWidget({Key? key}) : super(key: key);

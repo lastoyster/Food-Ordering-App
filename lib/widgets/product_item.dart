@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:food_craft/constants/app_assets.dart';
-import 'package:food_craft/models/food_model.dart';
+import '/constants/app_assets.dart';
+import '../models/food_model.dart';
 
 import '../constants/app_colors.dart';
 import '../pages/detail_product.dart';
